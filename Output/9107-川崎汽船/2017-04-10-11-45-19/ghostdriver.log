@@ -1,0 +1,12 @@
+[INFO  - 2017-04-10T02:52:06.834Z] GhostDriver - Main - running on port 59922
+[INFO  - 2017-04-10T02:52:08.051Z] Session [afd7a7f0-1d98-11e7-8e38-ef82ff10060b] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-04-10T02:52:08.051Z] Session [afd7a7f0-1d98-11e7-8e38-ef82ff10060b] - page.customHeaders:  - {}
+[INFO  - 2017-04-10T02:52:08.051Z] Session [afd7a7f0-1d98-11e7-8e38-ef82ff10060b] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-04-10T02:52:08.051Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: afd7a7f0-1d98-11e7-8e38-ef82ff10060b
+[INFO  - 2017-04-10T02:57:06.832Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-10T03:02:06.833Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-10T03:07:06.833Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-10T03:12:06.833Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2017-04-10T03:16:50.623Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1491794210417
+
+  phantomjs://platform/console++.js:263 in error
